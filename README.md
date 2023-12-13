@@ -1,19 +1,18 @@
-### 안녕하세요 손명욱 입니다. 👋
+## 안녕하세요. 손명욱 입니다. 👋
 
-### 프로그래밍 언어 Skill
+-  이메일 : smo3072@naver.com
+  
 
-### 팀프로젝트
+##  프로그래밍 언어 Skill
 
-**wuuuugi/wuuuugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 팀 프로젝트
 
-Here are some ideas to get you started:
+###  한정판 의류 및 신발등 다양한 한정판 제화를 좋아하는 사람들을 위한 한정판 상품 판매/구매 및 정보 제공이 가능한 웹 플랫폼 서비스
+- Github: https://github.com/wuuuugi/shopping.git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+###  식당 예약 시스템 통합 플랫폼 및 맛집 및 카페의 차별화된 리뷰와 정보를 제공하는 앱
+- Github: https://github.com/bogyuuggi/food_marvel.git
+  
+## 🎓 교육 사항
+
 
