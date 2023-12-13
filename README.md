@@ -13,6 +13,6 @@
 ###  식당 예약 시스템 통합 플랫폼 및 맛집 및 카페의 차별화된 리뷰와 정보를 제공하는 앱
 - Github: https://github.com/bogyuuggi/food_marvel.git
   
-## 🎓 교육 사항
+##  교육 사항
 
 
