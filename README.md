@@ -1,5 +1,8 @@
 ### 안녕하세요 손명욱 입니다. 👋
 
+### 프로그래밍 언어 Skill
+
+### 팀프로젝트
 
 **wuuuugi/wuuuugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
