@@ -1,4 +1,4 @@
-## 안녕하세요. 손명욱 입니다.<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+## 안녕하세요. 손명욱 입니다.<img src="https://img.shields.io/badge/suse-green?style=flat&logo=Sass&logoColor=CC6699"/>
 
 -  이메일 : smo3072@naver.com
   
